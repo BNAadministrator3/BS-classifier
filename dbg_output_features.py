@@ -1,4 +1,4 @@
-from A1c_leaveOneOutData import dataset_operator,  buildTrainValtest
+from pytorch_A1_leaveOneOutData import dataset_operator,  buildTrainValtest
 import pdb
 import matplotlib.pyplot as plt
 import numpy as np
